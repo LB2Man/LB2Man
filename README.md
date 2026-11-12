@@ -1,35 +1,26 @@
-<img width="1515" height="691" alt="image" src="https://github.com/user-attachments/assets/d9e65de5-a499-499a-a4b8-0fff94b89281" /><div align="center">
+<div align="center">
 
 <a href="https://github.com/LB2Man"><img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/header.png" alt="Yoni Libman — Software Developer" width="100%"></a>
 
 <br>
 
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/yoni-libman-803515399/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td>
-      <a href="mailto:libman.yoni@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-34495E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td>
-      <a href="./Yoni_Libman_CV.pdf">
-        <img src="https://img.shields.io/badge/CV-View_Resume-6C5CE7?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/LB2Man">
-        <img src="https://img.shields.io/badge/GitHub-My_Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/yoni-libman-803515399/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:libman.yoni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-34495E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./Yoni_Libman_CV.pdf">
+    <img src="https://img.shields.io/badge/CV-View_Resume-6C5CE7?style=for-the-badge" alt="CV">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/LB2Man">
+    <img src="https://img.shields.io/badge/GitHub-Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 </div>
 
