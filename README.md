@@ -50,8 +50,7 @@ A client-side expense management application built collaboratively with React.
 `React` `JavaScript` `Material UI` `IndexedDB`
 
 ### 03 — Clinical EmotiSupport · Team of three
-
-[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/clinical-emotisupport.png" alt="Clinical EmotiSupport" width="100%">](https://github.com/zvieli/Clinical_EmotiSupport)
+[![Clinical EmotiSupport](emotisupport.png)](https://github.com/zvieli/Clinical_EmotiSupport)
 
 A machine learning project for multi-label emotion classification in telemedicine messages.
 
