@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://github.com/LB2Man"><img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/assets/header.png" alt="Yoni Libman — Software Developer" width="100%"></a>
+<a href="https://github.com/LB2Man"><img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/header.png" alt="Yoni Libman — Software Developer" width="100%"></a>
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-182C45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yoni-libman-803515399/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-182C45?style=for-the-badge&logo=gmail&logoColor=white)](mailto:libman.yoni@gmail.com)
-[![CV](https://img.shields.io/badge/CV-View_Resume-182C45?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/LB2Man/LB2Man/blob/main/assets/Yoni_Libman_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-View_Resume-182C45?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/LB2Man/LB2Man/blob/main/Yoni_Libman_CV.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-My_Projects-182C45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LB2Man?tab=repositories)
 
 </div>
@@ -21,7 +21,7 @@ I'm looking for a **Junior Software Developer** opportunity where I can contribu
 
 ### 01 — Critical HIT · Independent project
 
-[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/assets/critical-hit.png" alt="Critical HIT" width="100%">](https://critical-hit-app.vercel.app/)
+[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/critical-hit.png" alt="Critical HIT" width="100%">](https://critical-hit-app.vercel.app/)
 
 A collaborative Dungeons & Dragons campaign and combat management application, designed, developed, and deployed independently.
 
@@ -34,7 +34,7 @@ A collaborative Dungeons & Dragons campaign and combat management application, d
 
 ### 02 — Cost Manager · Team of three
 
-[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/assets/cost-manager.png" alt="Cost Manager" width="100%">](https://cost-manager-frontend-71yh.onrender.com/)
+[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/cost-manager.png" alt="Cost Manager" width="100%">](https://cost-manager-frontend-71yh.onrender.com/)
 
 A client-side expense management application built collaboratively with React.
 
@@ -46,7 +46,7 @@ A client-side expense management application built collaboratively with React.
 
 ### 03 — Clinical EmotiSupport · Team of three
 
-[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/assets/clinical-emotisupport.png" alt="Clinical EmotiSupport" width="100%">](https://github.com/zvieli/Clinical_EmotiSupport)
+[<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/clinical-emotisupport.png" alt="Clinical EmotiSupport" width="100%">](https://github.com/zvieli/Clinical_EmotiSupport)
 
 A machine learning project for multi-label emotion classification in telemedicine messages.
 
@@ -58,7 +58,7 @@ A machine learning project for multi-label emotion classification in telemedicin
 
 ## Technical stack
 
-<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/assets/stack.png" alt="Technical skills: languages, frameworks, tools" width="100%">
+<img src="https://raw.githubusercontent.com/LB2Man/LB2Man/main/stack.png" alt="Technical skills: languages, frameworks, tools" width="100%">
 
 **Development tools:** Git, GitHub; AI-assisted development using OpenAI Codex, Claude, GitHub Copilot, and DeepSeek.
 
@@ -73,6 +73,6 @@ A machine learning project for multi-label emotion classification in telemedicin
 <div align="center">
 
 **Open to junior software development opportunities.**  
-[LinkedIn](https://www.linkedin.com/in/yoni-libman-803515399/) · [Email me](mailto:libman.yoni@gmail.com) · [View CV](https://github.com/LB2Man/LB2Man/blob/main/assets/Yoni_Libman_CV.pdf)
+[LinkedIn](https://www.linkedin.com/in/yoni-libman-803515399/) · [Email me](mailto:libman.yoni@gmail.com) · [View CV](https://github.com/LB2Man/LB2Man/blob/main/Yoni_Libman_CV.pdf)
 
 </div>
